@@ -1,6 +1,5 @@
 theme: jekyll-theme-slate
-title: Nitin Tyagi
-description: Machine Vision Lab, IITR
+
 <html>
 <head>
 <style>
@@ -10,6 +9,8 @@ img {
 </style>
 </head>
 <body>
+title: Nitin Tyagi
+description: Machine Vision Lab, IITR
 <p><img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/20Nitin.jpg" width="130" height="150" />
 </p>
 
