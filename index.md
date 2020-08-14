@@ -3,7 +3,7 @@
 **NITIN TYAGI**<br/>
 Ph.D Scholar<br/> 
 Dept. of computer Science and Engineering<br/>
-IIT Roorkee, Uttrakhand, India<br/>
+IIT Roorkee, Uttarakhand, India<br/>
 Email- nitin_t@cs.iitr.ac.in<br/>
 Mob- +919582433934<br/>
 
@@ -23,7 +23,7 @@ I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R.
 
 Course/class |  Year of Passing | University/School
 ------------ | -------------
-Ph.D | Pursuing | IIT Roorkee
+Ph.D | Pursuing | IIT Roorkee, Uttarakhand
 M.Tech | 2014 | Thapar University,Patiala,Punjab
 MCA | 2009 | Kurkshetra University, Haryana
 B.sc(Chemistry) | 2004 | A.R.S.D College,Delhi University
