@@ -1,5 +1,13 @@
+**NITIN TYAGI**<br/>
+Ph.D Scholar<br/> 
+Dept. of computer Science and Engineering
+IIT Roorkee, Uttrakhand, India
+Email- nitin_t@cs.iitr.ac.in<br/>
+       nitintyagi007.iitr@yahoo.com<br/>
+Mob- +919582433934<br/>
+
 ### About
-I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, department of computer science and engineering, Indian Institute of Technology Roorkee,Uttrakhand, India. My research interest includes unsupervised image captioning, image segmentation, Machine learning, Deep learning.
+I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, Department of Computer Science and Engineering, Indian Institute of Technology Roorkee,Uttrakhand, India. My research interest includes unsupervised image captioning, image segmentation, Machine learning, Deep learning.
 
 ### Research Interest
 1. Unsupervised Image Captioning
@@ -49,12 +57,6 @@ Image Segmentation using DBSCAN(Density-based spatial clustering of applications
 7. Won group song competition in 1995-96 with second position.
 8. Won  group dance competition in 1995-96 with first position.
 
-**NITIN TYAGI**<br/>
-Ph.D Scholar<br/> 
-Dept. of computer Science and Engineering
-IIT Roorkee, Uttrakhand, India
-Email- nitin_t@cs.iitr.ac.in<br/>
-       nitintyagi007.iitr@yahoo.com<br/>
-Mob- +919582433934
+
 
 
