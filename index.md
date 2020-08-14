@@ -1,4 +1,4 @@
-[create an anchor](#anchors-in-markdown)
+[create an anchor](#About)
 <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/20Nitin.jpg" width="210" height="260" /> 
 
 **NITIN TYAGI**<br/>
