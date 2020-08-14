@@ -46,7 +46,7 @@ Image Segmentation using DBSCAN(Density-based spatial clustering of applications
 7. Won group song competition in 1995-96 with second position.
 8. Won  group dance competition in 1995-96 with first position.
 
-**NITIN TYAGI**
+**NITIN TYAGI**<br/>
 Add-B-3795 Street No 102<br/> 
 Sant Nagar Burari<br/> 
 Delhi 110084<br/>
