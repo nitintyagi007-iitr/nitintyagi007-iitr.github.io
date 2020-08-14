@@ -8,7 +8,7 @@ Email- nitin_t@cs.iitr.ac.in<br/>
 Mob- +919582433934<br/>
 
 ### About
-I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, Department of Computer Science and Engineering, Indian Institute of Technology Roorkee,Uttrakhand, India. My research interest includes unsupervised image captioning, image segmentation, Machine learning, Deep learning.
+<p>I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, Department of Computer Science and Engineering, Indian Institute of Technology Roorkee,Uttrakhand, India. My research interest includes unsupervised image captioning, image segmentation, Machine learning, Deep learning.
 
 ### Research Interest
 1. Unsupervised Image Captioning
@@ -17,7 +17,7 @@ I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R.
 4. Deep Learning
 
 ### Publications
-1.Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, Nitin Tyagi, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)
+1.Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, **Nitin Tyagi**, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)
 
 ### Academic Qualification
 
@@ -37,11 +37,11 @@ B.sc(Chemistry) | 2004 | A.R.S.D College,Delhi University
 2. Participated in workshop on EMERGING TRENDS IN INFORMATION TECHNOLOGY organized by DIRD college, Delhi
 
 ### M.Tech Dissertation
-Dissertation Topic: "Development and Implementation of Algorithm to Remove Back to Front Interference in Historical Stained Documents"<br/>
+Dissertation Topic: **"Development and Implementation of Algorithm to Remove Back to Front Interference in Historical Stained Documents"**<br/>
 Name of supervisor:  Dr. Rajiv Kumar
 
 ### MCA Dissertation
-Dissertation Topic: "Image Segmentation using DBSCAN(Density-based spatial clustering of applications with noise) Algorithm in Java"
+Dissertation Topic: **"Image Segmentation using DBSCAN(Density-based spatial clustering of applications with noise) Algorithm in Java"**<br/>
 Name of Supervisor: Dr. Kanwal Garg
 
 ### Work Experience
@@ -51,14 +51,14 @@ Name of Supervisor: Dr. Kanwal Garg
 4. Worked in Research India Publication from 2009-2010
 
 ### Acheievements
-1. Won zonal tournament of volley ball in 1995-96 with first position.
-2. Won inter zonal tournament of volley ball in 1995-96 with first position.
-3. Won zonal tournament of volley ball 1996-97 with first position.
-4. Won inter zonal tournament of volley ball 1996-97 with first position.
+1. Won zonal tournament of volley ball in 1995-96 with **first position**.
+2. Won inter zonal tournament of volley ball in 1995-96 with **first position**.
+3. Won zonal tournament of volley ball 1996-97 with **first position**.
+4. Won inter zonal tournament of volley ball 1996-97 with **first position**.
 5. Participate in v mini **National Volley Ball championship** at Barasat stadium (West Bengal) in December 1996
 6. NCC Certificate.
-7. Won group song competition in 1995-96 with second position.
-8. Won  group dance competition in 1995-96 with first position.
+7. Won group song competition in 1995-96 with **second position**.
+8. Won  group dance competition in 1995-96 with **first position**.
 
 
 
