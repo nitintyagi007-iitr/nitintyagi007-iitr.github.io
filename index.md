@@ -1,3 +1,4 @@
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 **NITIN TYAGI**<br/>
 Ph.D Scholar<br/> 
 Dept. of computer Science and Engineering<br/>
