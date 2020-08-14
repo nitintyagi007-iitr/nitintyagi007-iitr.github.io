@@ -3,7 +3,6 @@ Ph.D Scholar<br/>
 Dept. of computer Science and Engineering<br/>
 IIT Roorkee, Uttrakhand, India<br/>
 Email- nitin_t@cs.iitr.ac.in<br/>
-&nbspnitintyagi007.iitr@yahoo.com<br/>
 Mob- +919582433934<br/>
 
 ### About
