@@ -25,7 +25,7 @@ Course/class |  Year of Passing | University/School
 ------------ | -------------
 Ph.D | Pursuing | IIT Roorkee, Uttarakhand
 M.Tech | 2014 | Thapar University,Patiala,Punjab
-MCA | 2009 | Kurkshetra University, Haryana
+MCA | 2009 | Kurukshetra University, Haryana
 B.sc(Chemistry) | 2004 | A.R.S.D College,Delhi University
 
 ### Award and Fellowship
@@ -37,10 +37,12 @@ B.sc(Chemistry) | 2004 | A.R.S.D College,Delhi University
 2. Participated in workshop on EMERGING TRENDS IN INFORMATION TECHNOLOGY organized by DIRD college, Delhi
 
 ### M.Tech Dissertation
-Development and Implementation of Algorithm to Remove Back to Front Interference in Historical Stained Documents
+Dissertation Topic: "Development and Implementation of Algorithm to Remove Back to Front Interference in Historical Stained Documents"<br/>
+Name of supervisor:  Dr. Rajiv Kumar
 
 ### MCA Dissertation
-Image Segmentation using DBSCAN(Density-based spatial clustering of applications with noise) Algorithm in Java
+Dissertation Topic: "Image Segmentation using DBSCAN(Density-based spatial clustering of applications with noise) Algorithm in Java"
+Name of Supervisor: Dr. Kanwal Garg
 
 ### Work Experience
 1. Worked as an Asstt. Professor in Kalka Institute for Research & Advanced Studies college affiliated from GGSIP University Delhi from 2014 -2017
