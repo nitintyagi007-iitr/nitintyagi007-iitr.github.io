@@ -39,7 +39,7 @@ B.sc(Chemistry) | 2004 | A.R.S.D College,Delhi University
 ### M.Tech Dissertation
 Dissertation Topic: **"Development and Implementation of Algorithm to Remove Back to Front Interference in Historical Stained Documents"**<br/>
 Name of supervisor:  Dr. Rajiv Kumar<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Associate Professor
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspAssociate Professor
 
 ### MCA Dissertation
 Dissertation Topic: **"Image Segmentation using DBSCAN(Density-based spatial clustering of applications with noise) Algorithm in Java"**<br/>
