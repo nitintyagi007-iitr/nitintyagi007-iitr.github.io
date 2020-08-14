@@ -47,12 +47,12 @@ Image Segmentation using DBSCAN(Density-based spatial clustering of applications
 8. Won  group dance competition in 1995-96 with first position.
 
 **NITIN TYAGI**
-Add-B-3795 Street No 102 
-Sant Nagar Burari 
-Delhi 110084
-India
-Email- nitin_t@cs.iitr.ac.in
-        nitintyagi007.iitr@yahoo.com
-Mob- +919582433934
+>Add-B-3795 Street No 102 
+>Sant Nagar Burari 
+>Delhi 110084
+>India
+>Email- nitin_t@cs.iitr.ac.in
+        >nitintyagi007.iitr@yahoo.com
+>Mob- +919582433934
 
 
