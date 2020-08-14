@@ -7,6 +7,11 @@ I am a Ph.D. scholar at Machine vision Lab, Indian Institute of Technology Roork
 3. Machine Learning
 4. Deep Learning
 
-## Publications
+### Publications
 1.Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, Nitin Tyagi, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)
 
+### Academic Qualification
+Course/class    | Year of Passing   | University/School
+---------------------------------------------------------------------------
+Ph.D            | Pursuing          | IIT Roorkee
+M.Tech          | 2014              | Thapar University,Patiala,Punjab      
