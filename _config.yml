@@ -6,7 +6,8 @@ description: nitin_t at cs dot iitr dot ac dot in
 
 <h1>The img element</h1>
 
-<img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/logo.png" alt="Girl in a jacket" width="500" height="600">
+<img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/logo.png" width="130" height="150" />
+
 
 </body>
 </html>
