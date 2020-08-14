@@ -19,7 +19,6 @@ IIT Roorkee, Uttarakhand, India<br/>
 Email- <i>nitin_t@cs.iitr.ac.in</i><br/>
 Mob- +919582433934<br/>
 </p>
-
 </body>
 </html>
 
