@@ -1,4 +1,4 @@
-## About
+### About
 I am a Ph.D. scholar at Machine vision Lab, Indian Institute of Technology Roorkee, India, supervised by Prof. R. Balasubramanian. My research interest includes unsupervised image captioning, image segmentation of historical documents,Machine learning, Deep learning.
 
 ### Research Interest
@@ -6,4 +6,7 @@ I am a Ph.D. scholar at Machine vision Lab, Indian Institute of Technology Roork
 2. Image segmentation of historical documents
 3. Machine Learning
 4. Deep Learning
+
+## Publications
+1.Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, Nitin Tyagi, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)
 
