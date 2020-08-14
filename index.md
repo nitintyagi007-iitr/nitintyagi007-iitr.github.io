@@ -1,9 +1,9 @@
 ### About
-I am a Ph.D. scholar at Machine vision Lab, Indian Institute of Technology Roorkee, India, supervised by Prof. R. Balasubramanian. My research interest includes unsupervised image captioning, image segmentation of historical documents,Machine learning, Deep learning.
+I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, department of computer science and engineering, Indian Institute of Technology Roorkee,Uttrakhand, India. My research interest includes unsupervised image captioning, image segmentation, Machine learning, Deep learning.
 
 ### Research Interest
 1. Unsupervised Image Captioning
-2. Image segmentation of historical documents
+2. Image segmentation
 3. Machine Learning
 4. Deep Learning
 
@@ -16,13 +16,16 @@ Course/class |  Year of Passing | University/School
 ------------ | -------------
 Ph.D | Pursuing | IIT Roorkee
 M.Tech | 2014 | Thapar University,Patiala,Punjab
-GATE | 2012 | Conducted by IIT Delhi
 MCA | 2009 | Kurkshetra University, Haryana
 B.sc(Chemistry) | 2004 | A.R.S.D College,Delhi University
 
+### Award and Fellowship
+1. MHRD Scholarship during M.Tech and Ph.D
+2. Qualified GATE-2012 in Computer Science
+
 ### Workshop Attended
-1. Participate in National workshop on LEVERAGING TECHNOLOGIES USING ERP AND OPEN SOURCE TECHNOLOGY organized by Technia Institute of Advanced Studies, Rohini Delhi
-2. Participate in workshop on EMERGING TRENDS IN INFORMATION TECHNOLOGY organized by DIRD college, Delhi
+1. Participated in National workshop on LEVERAGING TECHNOLOGIES USING ERP AND OPEN SOURCE TECHNOLOGY organized by Technia Institute of Advanced Studies, Rohini Delhi
+2. Participated in workshop on EMERGING TRENDS IN INFORMATION TECHNOLOGY organized by DIRD college, Delhi
 
 ### M.Tech Dissertation
 Development and Implementation of Algorithm to Remove Back to Front Interference in Historical Stained Documents
@@ -47,10 +50,9 @@ Image Segmentation using DBSCAN(Density-based spatial clustering of applications
 8. Won  group dance competition in 1995-96 with first position.
 
 **NITIN TYAGI**<br/>
-Add-B-3795 Street No 102<br/> 
-Sant Nagar Burari<br/> 
-Delhi 110084<br/>
-India<br/>
+Ph.D Scholar<br/> 
+Dept. of computer Science and Engineering
+IIT Roorkee, Uttrakhand, India
 Email- nitin_t@cs.iitr.ac.in<br/>
        nitintyagi007.iitr@yahoo.com<br/>
 Mob- +919582433934
