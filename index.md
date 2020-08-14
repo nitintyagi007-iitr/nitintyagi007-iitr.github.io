@@ -15,7 +15,7 @@ img {
 Ph.D Scholar<br/> 
 Dept. of computer Science and Engineering<br/>
 IIT Roorkee, Uttarakhand, India<br/>
-Email- nitin_t@cs.iitr.ac.in<br/>
+Email- <i>nitin_t@cs.iitr.ac.in</i><br/>
 Mob- +919582433934<br/>
 </p>
 
