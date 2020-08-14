@@ -8,11 +8,11 @@ Email- nitin_t@cs.iitr.ac.in<br/>
 Mob- +919582433934<br/>
 
 ### About
-I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, Department of Computer Science and Engineering, Indian Institute of Technology Roorkee,Uttrakhand, India. My research interest includes unsupervised image captioning, image segmentation, Machine learning, Deep learning.
+I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, Department of Computer Science and Engineering, Indian Institute of Technology Roorkee,Uttarakhand, India. My research interest includes Unsupervised Image Captioning, Image Segmentation, Machine Learning, Deep Learning.
 
 ### Research Interest
 1. Unsupervised Image Captioning
-2. Image segmentation
+2. Image Segmentation
 3. Machine Learning
 4. Deep Learning
 
@@ -50,15 +50,14 @@ Name of Supervisor: Dr. Kanwal Garg
 3. Worked as an Asstt. Professor in Delhi Institute of Rural Development college affiliated from GGSIP University Delhi from 2010-2011
 4. Worked in Research India Publication from 2009-2010
 
-### Acheievements
+### Achievements
 1. Won zonal tournament of volley ball in 1995-96 with **first position**.
 2. Won inter zonal tournament of volley ball in 1995-96 with **first position**.
 3. Won zonal tournament of volley ball 1996-97 with **first position**.
 4. Won inter zonal tournament of volley ball 1996-97 with **first position**.
 5. Participate in v mini **National Volley Ball championship** at Barasat stadium (West Bengal) in December 1996
 6. NCC Certificate.
-7. Won group song competition in 1995-96 with **second position**.
-8. Won  group dance competition in 1995-96 with **first position**.
+
 
 
 
