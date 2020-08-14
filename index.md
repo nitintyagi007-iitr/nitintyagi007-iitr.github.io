@@ -20,4 +20,13 @@ GATE | 2012 | Conducted by IIT Delhi
 MCA | 2009 | Kurkshetra University, Haryana
 B.sc(Chemistry) | 2004 | A.R.S.D College,Delhi University
 
+### Workshop Attended
+1. Participate in National workshop on LEVERAGING TECHNOLOGIES USING ERP AND OPEN SOURCE TECHNOLOGY organized by Technia Institute of Advanced Studies, Rohini Delhi
+2. Participate in workshop on EMERGING TRENDS IN INFORMATION TECHNOLOGY organized by DIRD college, Delhi
+
+### M.Tech Dissertation
+Development and Implementation of Algorithm to Remove Back to Front Interference in Historical Stained Documents
+
+### MCA Dissertation
+Image Segmentation using DBSCAN(Density-based spatial clustering of applications with noise) Algorithm in Java
 
