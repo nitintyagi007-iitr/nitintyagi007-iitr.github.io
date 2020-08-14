@@ -1,4 +1,13 @@
-[create an anchor](#About)
+<html>
+<body>
+
+<h1>Align text with CSS</h1>
+
+<p style="text-align:right">This is some text in a paragraph.</p>
+
+</body>
+</html>
+
 <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/20Nitin.jpg" width="210" height="260" /> 
 
 **NITIN TYAGI**<br/>
