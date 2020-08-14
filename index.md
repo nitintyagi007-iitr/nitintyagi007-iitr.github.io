@@ -30,3 +30,19 @@ Development and Implementation of Algorithm to Remove Back to Front Interference
 ### MCA Dissertation
 Image Segmentation using DBSCAN(Density-based spatial clustering of applications with noise) Algorithm in Java
 
+### Work Experience
+1. Worked as an Asstt. Professor in Kalka Institute for Research & Advanced Studies college affiliated from GGSIP University Delhi from 2014 -2017
+2. Worked as an Asstt. Professor in Kalka Institute for Research & Advanced Studies college affiliated from GGSIP University Delhi from 2011 -2012
+3. Worked as an Asstt. Professor in Delhi Institute of Rural Development college affiliated from GGSIP University Delhi from 2010-2011
+4. Worked in Research India Publication from 2009-2010
+
+### Acheievements
+1. Won zonal tournament of volley ball in 1995-96 with first position.
+2. Won inter zonal tournament of volley ball in 1995-96 with first position.
+3. Won zonal tournament of volley ball 1996-97 with first position.
+4. Won inter zonal tournament of volley ball 1996-97 with first position.
+5. Participate in v mini **National Volley Ball championship** at Barasat stadium (West Bengal) in December 1996
+6. NCC Certificate.
+7. Won group song competition in 1995-96 with second position.
+8. Won  group dance competition in 1995-96 with first position.
+
