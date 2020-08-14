@@ -1,4 +1,15 @@
-<img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/20Nitin.jpg" width="210" height="260" />
+<html>
+<head>
+<style>
+img {
+  float: right;
+}
+</style>
+</head>
+<body>
+
+
+<p><img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/20Nitin.jpg" width="210" height="260" />
 
 **NITIN TYAGI**<br/>
 Ph.D Scholar<br/> 
@@ -6,6 +17,11 @@ Dept. of computer Science and Engineering<br/>
 IIT Roorkee, Uttarakhand, India<br/>
 Email- nitin_t@cs.iitr.ac.in<br/>
 Mob- +919582433934<br/>
+</p>
+
+</body>
+</html>
+
 
 
 ### About
