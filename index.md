@@ -16,11 +16,8 @@ Course/class |  Year of Passing | University/School
 ------------ | -------------
 Ph.D | Pursuing | IIT Roorkee
 M.Tech | 2014 | Thapar University,Patiala,Punjab
+GATE | 2012 | Conducted by IIT Delhi
 MCA | 2009 | Kurkshetra University, Haryana
 B.sc(Chemistry) | 2004 | A.R.S.D College,Delhi University
 
 
-Course/class    | Year of Passing   | University/School
----------------------------------------------------------------------------
-Ph.D            | Pursuing          | IIT Roorkee
-M.Tech          | 2014              | Thapar University,Patiala,Punjab      
