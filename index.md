@@ -8,7 +8,7 @@ Email- nitin_t@cs.iitr.ac.in<br/>
 Mob- +919582433934<br/>
 
 ### About
-<p>I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, Department of Computer Science and Engineering, Indian Institute of Technology Roorkee,Uttrakhand, India. My research interest includes unsupervised image captioning, image segmentation, Machine learning, Deep learning.
+I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, Department of Computer Science and Engineering, Indian Institute of Technology Roorkee,Uttrakhand, India. My research interest includes unsupervised image captioning, image segmentation, Machine learning, Deep learning.
 
 ### Research Interest
 1. Unsupervised Image Captioning
