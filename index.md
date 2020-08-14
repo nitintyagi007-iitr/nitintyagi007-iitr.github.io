@@ -1,10 +1,4 @@
-<html>
-  <head>
-  </head>
-  <body>
-    <a href="#About"></a>
-  </body>
-  </html>
+
 <html>
 <head>
 <style>
@@ -29,8 +23,6 @@ Mob- +919582433934<br/>
 </body>
 </html>
 
-
-<a= href="#About></a>
 ### About
 <html>
 <head>
