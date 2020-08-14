@@ -1,4 +1,4 @@
-![Nitin Tyagi](https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/20Nitin.jpg)
+![Nitin Tyagi](https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/20Nitin.jpg)<br/>
 **NITIN TYAGI**<br/>
 Ph.D Scholar<br/> 
 Dept. of computer Science and Engineering<br/>
