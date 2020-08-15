@@ -15,6 +15,14 @@ div {
   text-align: justify;
   text-justify: inter-word;
 }
+  a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 7px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
   a:hover, a:active {
   background-color: red;
 }
