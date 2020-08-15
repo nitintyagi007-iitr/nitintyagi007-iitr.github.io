@@ -13,15 +13,16 @@ a:link, a:visited {
 a:hover, a:active {
   background-color: red;
 }
+img {
+float: right;
+}
 </style>
 </head>
 <body>
-<a href="default.asp" target="_blank">About</a>
+<a id="default.asp" target="_blank">About</a>
 
-</body>
+<!--</body>
 </html>
-
-
 <html>
 <head>
 <style>
@@ -30,9 +31,7 @@ img {
 }
 </style>
 </head>
-<body>
-
-
+<body>-->
 <p><img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/20Nitin.jpg" width="130" height="150" />
 
 <b>NITIN TYAGI</b><br/>
