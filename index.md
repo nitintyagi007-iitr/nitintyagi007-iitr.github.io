@@ -15,6 +15,9 @@ div {
   text-align: justify;
   text-justify: inter-word;
 }
+  a:hover, a:active {
+  background-color: red;
+}
 </style>
 </head>
 <body>
