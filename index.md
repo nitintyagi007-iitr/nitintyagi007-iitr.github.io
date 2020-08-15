@@ -19,7 +19,7 @@ float: right;
 </style>
 </head>
 <body>
-<a id="default.asp" target="_blank">About</a>
+<a href="default.asp" target="_blank">About</a>
 
 <!--</body>
 </html>
