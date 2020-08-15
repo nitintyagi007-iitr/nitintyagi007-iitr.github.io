@@ -1,7 +1,7 @@
 <html>
 <head>
 <style>
-<!--a:link, a:visited {
+a:link, a:visited {
   background-color: #f44336;
   color: white;
   padding: 15px 25px;
@@ -12,7 +12,7 @@
 
 a:hover, a:active {
   background-color: red;
-}-->
+}
 img {
 float: right;
 }
@@ -23,9 +23,7 @@ div {
 </style>
 </head>
 <body>
-<a href="#About" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a> 
-<!--<a href="default.asp" target="_blank">About</a>-->
-
+<a href="default.asp" target="_blank">About</a>
 <!--</body>
 </html>
 <html>
