@@ -23,7 +23,8 @@ div {
 </style>
 </head>
 <body>
-<a href="default.asp" target="_blank">About</a>
+  <a>About</a>
+<!--<a href="default.asp" target="_blank">About</a>-->
 <!--</body>
 </html>
 <html>
