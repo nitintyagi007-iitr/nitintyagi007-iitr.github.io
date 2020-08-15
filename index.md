@@ -17,19 +17,7 @@ div {
 </style>
 </head>
 <body>
-  <!--<a id="About">About</a>-->
-<!--<a href="default.asp" target="_blank">About</a>-->
-<!--</body>
-</html>
-<html>
-<head>
-<style>
-img {
-  float: right;
-}
-</style>
-</head>
-<body>-->
+<br/>
 <p><img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/20Nitin.jpg" width="130" height="150" />
 <br/><br/><b>NITIN TYAGI</b><br/>
 Ph.D Scholar<br/> 
