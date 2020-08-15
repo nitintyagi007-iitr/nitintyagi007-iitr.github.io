@@ -46,7 +46,7 @@ Mob- +919582433934<br/>
 </p>
 <!--</body>
 </html>-->
-<b>About</b>
+<h2><b>About</b></h2>
 <!--<html>
 <head>
 <style>
