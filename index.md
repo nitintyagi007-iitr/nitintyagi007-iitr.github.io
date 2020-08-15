@@ -7,7 +7,7 @@
 <html>
 <head>
 <style>
-a:link, a:visited {
+<!--a:link, a:visited {
   background-color: #f44336;
   color: white;
   padding: 15px 25px;
@@ -15,10 +15,9 @@ a:link, a:visited {
   text-decoration: none;
   display: inline-block;
 }
-
 a:hover, a:active {
   background-color: black;
-}
+}-->
 img {
 float: right;
 }
