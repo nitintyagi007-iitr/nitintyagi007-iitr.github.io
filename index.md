@@ -81,9 +81,9 @@ Dissertation Topic: **"Image Segmentation using DBSCAN(Density-based spatial clu
 Name of Supervisor: Dr. Kanwal Garg
 
 ### Work Experience
-1. Worked as an Asstt. Professor in Kalka Institute for Research & Advanced Studies college affiliated from GGSIP University Delhi from 2014 -2017
-2. Worked as an Asstt. Professor in Kalka Institute for Research & Advanced Studies college affiliated from GGSIP University Delhi from 2011 -2012
-3. Worked as an Asstt. Professor in Delhi Institute of Rural Development college affiliated from GGSIP University Delhi from 2010-2011
+1. Worked as Asstt. Professor in Kalka Institute for Research & Advanced Studies college affiliated from GGSIP University Delhi from 2014 -2017
+2. Worked as Asstt. Professor in Kalka Institute for Research & Advanced Studies college affiliated from GGSIP University Delhi from 2011 -2012
+3. Worked as Asstt. Professor in Delhi Institute of Rural Development college affiliated from GGSIP University Delhi from 2010-2011
 4. Worked in Research India Publication from 2009-2010
 
 ### Achievements
