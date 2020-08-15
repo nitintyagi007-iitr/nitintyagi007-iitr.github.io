@@ -24,7 +24,7 @@ div {
   <!--display: inline-block;-->
 }
   a:hover, a:active {
-  background-color: Gold;
+  background-color: Navy;
 }
 </style>
 </head>
