@@ -54,7 +54,7 @@ B.sc(Chemistry) | 2004 | A.R.S.D College,Delhi University
 ### Award and Fellowship
 1. Awarded MHRD fellowship for pursuing Ph.D at IIT Roorkee
 2. Qualified GATE 2012
-3. Awarded GATE fellowship during M.Tech in Computer Science and Application At Thapar University, Patiala, Punjab
+3. Awarded GATE fellowship during M.Tech in Computer Science and Engineering Department at Thapar University, Patiala, Punjab
 
 ### Workshop Attended
 1. Participated in National workshop on LEVERAGING TECHNOLOGIES USING ERP AND OPEN SOURCE TECHNOLOGY organized by Technia Institute of Advanced Studies, Rohini Delhi
