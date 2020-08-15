@@ -16,10 +16,7 @@ a:hover, a:active {
 </style>
 </head>
 <body>
-
-<h2>Link Button</h2>
-<p>A link styled as a button:</p>
-<a href="default.asp" target="_blank">This is a link</a>
+<a href="default.asp" target="_blank">About</a>
 
 </body>
 </html>
