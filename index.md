@@ -67,8 +67,8 @@ div {
 </head>
 <body>-->
 <div>I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, Department of Computer Science and Engineering, Indian Institute of Technology Roorkee,Uttarakhand, India. My research interest includes Unsupervised Image Captioning, Image Segmentation, Machine Learning, Deep Learning.</div>
-</body>
-</html>
+<!--</body>
+</html>-->
 ### Research_Interest
 1. Unsupervised Image Captioning
 2. Image Segmentation
@@ -77,7 +77,8 @@ div {
 
 ### Publications
 1.Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, **Nitin Tyagi**, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)
-
+</body>
+</html>
 ### Academic_Qualification
 
 Course/class |  Year of Passing | University/School
