@@ -37,11 +37,11 @@ img {
 </head>
 <body>-->
 <p><img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/20Nitin.jpg" width="130" height="150" />
-<h1><b>NITIN TYAGI</b></h1><br/>
+<b>NITIN TYAGI</b><br/>
 Ph.D Scholar<br/> 
 Dept. of computer Science and Engineering<br/>
 IIT Roorkee, Uttarakhand, India<br/>
-Email- <h1><i>nitin_t@cs.iitr.ac.in</i></h1><br/>
+Email- <i>nitin_t@cs.iitr.ac.in</i><br/>
 Mob- +919582433934<br/>
 </p>
 <!--</body>
