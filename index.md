@@ -74,7 +74,7 @@ div {
 4. Deep Learning
  
 <a id="Publications"></a><h3><b>Publications</b></h3>
-1.Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, **Nitin Tyagi**, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)
+1.Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, <b>Nitin Tyagi</b>, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)
 </body>
 </html>
 
