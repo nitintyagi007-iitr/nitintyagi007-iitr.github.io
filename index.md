@@ -17,7 +17,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: red;
+  background-color: black;
 }
 img {
 float: right;
