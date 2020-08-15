@@ -26,11 +26,10 @@ IIT Roorkee, Uttarakhand, India<br/>
 Email- <i>nitin_t@cs.iitr.ac.in</i><br/>
 Mob- +919582433934<br/>
 </p>
-<!--</body>
-</html>-->
+
 <a id="About"></a><h3><b>About</b></h3>
 <div>I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, Department of Computer Science and Engineering, Indian Institute of Technology Roorkee,Uttarakhand, India. My research interest includes Unsupervised Image Captioning, Image Segmentation, Machine Learning, Deep Learning.</div>
-<a id="Research_Interest"></a><h3><b>Research_Interest</b></h3>
+<a id="Research_Interest"></a><h3><b>Research Interest</b></h3>
 <ol>
   <li>Unsupervised Image Captioning</li>
   <li>Image Segmentation</li>
@@ -52,7 +51,7 @@ M.Tech | 2014 | Thapar University,Patiala,Punjab
 MCA | 2009 | Kurukshetra University, Haryana
 B.sc(Chemistry) | 2004 | A.R.S.D College,Delhi University
 
-### Award_and_Fellowship
+### Award and Fellowship
 1.Awarded MHRD fellowship for pursuing Ph.D at IIT Roorkee
 2.qualified GATE 2012
 3.Awarded GATE fellowship during M.Tech in Computer Science and Application At Thapar University, Patiala, Punjab
@@ -70,7 +69,7 @@ Name of supervisor:  Dr. Rajiv Kumar<br/>
 Dissertation Topic: **"Image Segmentation using DBSCAN(Density-based spatial clustering of applications with noise) Algorithm in Java"**<br/>
 Name of Supervisor: Dr. Kanwal Garg
 
-### Work_Experience
+### Work Experience
 1. Worked as an Asstt. Professor in Kalka Institute for Research & Advanced Studies college affiliated from GGSIP University Delhi from 2014 -2017
 2. Worked as an Asstt. Professor in Kalka Institute for Research & Advanced Studies college affiliated from GGSIP University Delhi from 2011 -2012
 3. Worked as an Asstt. Professor in Delhi Institute of Rural Development college affiliated from GGSIP University Delhi from 2010-2011
