@@ -3,9 +3,7 @@
   <a href="#Research_Interest" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Research_Interest</pre></a>
   <a href="#Publications" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Publications</pre></a>
   <a href="#Academic_Qualification" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Academic_Qualification</pre></a>
-  <a href="#### Award_and_Fellowship" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>### Award_and_Fellowship
 </pre></a>
-  
 </div>
 <html>
 <head>
@@ -108,7 +106,7 @@ Name of supervisor:  Dr. Rajiv Kumar<br/>
 Dissertation Topic: **"Image Segmentation using DBSCAN(Density-based spatial clustering of applications with noise) Algorithm in Java"**<br/>
 Name of Supervisor: Dr. Kanwal Garg
 
-### Work Experience
+### Work_Experience
 1. Worked as an Asstt. Professor in Kalka Institute for Research & Advanced Studies college affiliated from GGSIP University Delhi from 2014 -2017
 2. Worked as an Asstt. Professor in Kalka Institute for Research & Advanced Studies college affiliated from GGSIP University Delhi from 2011 -2012
 3. Worked as an Asstt. Professor in Delhi Institute of Rural Development college affiliated from GGSIP University Delhi from 2010-2011
