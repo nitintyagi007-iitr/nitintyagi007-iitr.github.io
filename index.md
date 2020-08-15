@@ -29,20 +29,7 @@ Mob- +919582433934<br/>
 <!--</body>
 </html>-->
 <a id="About"></a><h3><b>About</b></h3>
-<!--<html>
-<head>
-<style>
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
-</style>
-</head>
-<body>-->
 <div>I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, Department of Computer Science and Engineering, Indian Institute of Technology Roorkee,Uttarakhand, India. My research interest includes Unsupervised Image Captioning, Image Segmentation, Machine Learning, Deep Learning.</div>
-<!--</body>
-</html>-->
-
 <a id="Research_Interest"></a><h3><b>Research_Interest</b></h3>
 <ol>
   <li>Unsupervised Image Captioning</li>
