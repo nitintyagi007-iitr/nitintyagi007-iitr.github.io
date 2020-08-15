@@ -1,6 +1,6 @@
 <div>
-  <a href="#Academic_Qualification" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre><b>Resume</b></pre></a>
-  <a href="#Academic_Qualification" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre><b>Qualifications>/b></pre></a>
+  <a href="#Academic_Qualification" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Resume</pre></a>
+  <a href="#Academic_Qualification" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Qualifications></pre></a>
   <a href="#Publications" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre><b>Publications</b></pre></a>
   <a href="#Research_Interest" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre><b>Research</b></pre></a>
   <a href="#About" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre><b>About</b></pre></a>
