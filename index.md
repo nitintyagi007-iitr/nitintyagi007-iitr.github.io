@@ -2,7 +2,7 @@
   <a href="#About" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a>
   <a href="#Research_Interest" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Research_Interest</pre></a>
   <a href="#Publications" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Publications</pre></a>
-    <a href="#Academic_Qualification" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Academic_Qualification</pre></a>
+  <a href="#Academic_Qualification" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Academic_Qualification</pre></a>
   <a href="#### Award_and_Fellowship" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>### Award_and_Fellowship
 </pre></a>
   
@@ -69,16 +69,18 @@ div {
 <div>I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, Department of Computer Science and Engineering, Indian Institute of Technology Roorkee,Uttarakhand, India. My research interest includes Unsupervised Image Captioning, Image Segmentation, Machine Learning, Deep Learning.</div>
 <!--</body>
 </html>-->
+
 ### Research_Interest
 1. Unsupervised Image Captioning
 2. Image Segmentation
 3. Machine Learning
 4. Deep Learning
-
+ 
 ### Publications
 1.Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, **Nitin Tyagi**, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)
 </body>
 </html>
+
 ### Academic_Qualification
 
 Course/class |  Year of Passing | University/School
