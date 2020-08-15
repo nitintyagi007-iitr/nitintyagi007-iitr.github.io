@@ -21,7 +21,7 @@ div {
   padding: 2px 10px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  <!--display: inline-block;-->
 }
   a:hover, a:active {
   background-color: red;
