@@ -1,3 +1,12 @@
+<div>
+  <a href="#About" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a>
+  <a href="#Research_Interest" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Research_Interest</pre></a>
+  <a href="#Publications" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Publications</pre></a>
+    <a href="#Academic_Qualification" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Academic_Qualification</pre></a>
+  <a href="#### Award_and_Fellowship" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>### Award_and_Fellowship
+</pre></a>
+  
+</div>
 <html>
 <head>
 <style>
@@ -60,7 +69,7 @@ div {
 <div>I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, Department of Computer Science and Engineering, Indian Institute of Technology Roorkee,Uttarakhand, India. My research interest includes Unsupervised Image Captioning, Image Segmentation, Machine Learning, Deep Learning.</div>
 </body>
 </html>
-### Research Interest
+### Research_Interest
 1. Unsupervised Image Captioning
 2. Image Segmentation
 3. Machine Learning
@@ -69,7 +78,7 @@ div {
 ### Publications
 1.Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, **Nitin Tyagi**, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)
 
-### Academic Qualification
+### Academic_Qualification
 
 Course/class |  Year of Passing | University/School
 ------------ | -------------
@@ -78,7 +87,7 @@ M.Tech | 2014 | Thapar University,Patiala,Punjab
 MCA | 2009 | Kurukshetra University, Haryana
 B.sc(Chemistry) | 2004 | A.R.S.D College,Delhi University
 
-### Award and Fellowship
+### Award_and_Fellowship
 1.Awarded MHRD fellowship for pursuing Ph.D at IIT Roorkee
 2.qualified GATE 2012
 3.Awarded GATE fellowship during M.Tech in Computer Science and Application At Thapar University, Patiala, Punjab
