@@ -77,10 +77,10 @@ div {
 
 <a id="Publications"></a><h3><b>Publications</b></h3>
 1.Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, <b>Nitin Tyagi</b>, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)
-</body>
-</html>
 
 <a id="Academic_Qualification"></a><h3><b>Academic Qualification</b></h3>
+</body>
+</html>
 
 Course/class |  Year of Passing | University/School
 ------------ | -------------
