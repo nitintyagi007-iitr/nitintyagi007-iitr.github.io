@@ -68,11 +68,13 @@ div {
 </html>-->
 
 <a id="Research_Interest"></a><h3><b>Research_Interest</b></h3>
-1. Unsupervised Image Captioning
-2. Image Segmentation
-3. Machine Learning
-4. Deep Learning
- 
+<ol>
+  <li>Unsupervised Image Captioning</li>
+  <li>Image Segmentation</li>
+  <li> Machine Learning</li>
+  <li> Deep Learning</li>
+</ol> 
+
 <a id="Publications"></a><h3><b>Publications</b></h3>
 1.Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, <b>Nitin Tyagi</b>, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)
 </body>
