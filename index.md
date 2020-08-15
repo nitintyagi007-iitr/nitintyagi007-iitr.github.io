@@ -16,7 +16,7 @@ div {
   text-justify: inter-word;
 }
   a:link, a:visited {
-  background-color: #A9A9A9;
+  background-color: #484848;
   color: white;
   padding: 8px 15px;
   text-align: center;
