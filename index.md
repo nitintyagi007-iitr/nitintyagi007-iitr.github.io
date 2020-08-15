@@ -18,8 +18,7 @@ div {
 </style>
 </head>
 <body>
-
-<p><br/><img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/20Nitin.jpg" width="130" height="150" />
+<p><img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/20Nitin.jpg" width="130" height="150" />
 <br/><br/><b>NITIN TYAGI</b><br/>
 Ph.D Scholar<br/> 
 Dept. of computer Science and Engineering<br/>
