@@ -23,7 +23,8 @@ div {
 </style>
 </head>
 <body>
-<a href="default.asp" target="_blank">About</a>
+<a href="#About" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a> 
+<!--<a href="default.asp" target="_blank">About</a>-->
 
 <!--</body>
 </html>
