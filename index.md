@@ -18,7 +18,7 @@ div {
   a:link, a:visited {
   background-color: #A9A9A9;
   color: white;
-  padding: 9px 17px;
+  padding: 8px 15px;
   text-align: center;
   text-decoration: none;
   <!--display: inline-block;-->
