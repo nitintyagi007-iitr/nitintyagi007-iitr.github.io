@@ -78,7 +78,7 @@ div {
 </body>
 </html>
 
-<a id="Academic_Qualification"></a><h3><b>Academic_Qualification</b></h3>
+<a id="Academic_Qualification"></a><h3><b>Academic Qualification</b></h3>
 
 Course/class |  Year of Passing | University/School
 ------------ | -------------
