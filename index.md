@@ -37,11 +37,11 @@ img {
 </head>
 <body>-->
 <p><img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/20Nitin.jpg" width="130" height="150" />
-<b>NITIN TYAGI</b><br/>
+<h1><b>NITIN TYAGI</b></h1><br/>
 Ph.D Scholar<br/> 
 Dept. of computer Science and Engineering<br/>
 IIT Roorkee, Uttarakhand, India<br/>
-Email- <i>nitin_t@cs.iitr.ac.in</i><br/>
+Email- <h1><i>nitin_t@cs.iitr.ac.in</i></h1><br/>
 Mob- +919582433934<br/>
 </p>
 <!--</body>
@@ -79,8 +79,9 @@ MCA | 2009 | Kurukshetra University, Haryana
 B.sc(Chemistry) | 2004 | A.R.S.D College,Delhi University
 
 ### Award and Fellowship
-1. Awarded MHRD fellowship for pursuing Ph.D at IIT Roorkee
-2. Awarded GATE fellowship during M.Tech in Computer Science and Application At Thapar University, Patiala, Punjab
+1.Awarded MHRD fellowship for pursuing Ph.D at IIT Roorkee
+2.qualified GATE 2012
+3.Awarded GATE fellowship during M.Tech in Computer Science and Application At Thapar University, Patiala, Punjab
 
 ### Workshop Attended
 1. Participated in National workshop on LEVERAGING TECHNOLOGIES USING ERP AND OPEN SOURCE TECHNOLOGY organized by Technia Institute of Advanced Studies, Rohini Delhi
