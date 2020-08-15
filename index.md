@@ -16,6 +16,10 @@ a:hover, a:active {
 img {
 float: right;
 }
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
 </style>
 </head>
 <body>
@@ -33,7 +37,6 @@ img {
 </head>
 <body>-->
 <p><img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/20Nitin.jpg" width="130" height="150" />
-
 <b>NITIN TYAGI</b><br/>
 Ph.D Scholar<br/> 
 Dept. of computer Science and Engineering<br/>
@@ -41,11 +44,10 @@ IIT Roorkee, Uttarakhand, India<br/>
 Email- <i>nitin_t@cs.iitr.ac.in</i><br/>
 Mob- +919582433934<br/>
 </p>
-</body>
-</html>
-
+<!--</body>
+</html>-->
 ### About
-<html>
+<!--<html>
 <head>
 <style>
 div {
@@ -54,15 +56,10 @@ div {
 }
 </style>
 </head>
-<body>
+<body>-->
 <div>I am Mr. Nitin Tyagi, working as Ph.D. scholar under the supervision of Prof. R. Balasubramanian at Machine vision Lab, Department of Computer Science and Engineering, Indian Institute of Technology Roorkee,Uttarakhand, India. My research interest includes Unsupervised Image Captioning, Image Segmentation, Machine Learning, Deep Learning.</div>
-
-
-
 </body>
 </html>
-
-
 ### Research Interest
 1. Unsupervised Image Captioning
 2. Image Segmentation
