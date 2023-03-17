@@ -62,21 +62,8 @@ Mob- +919582433934<br/>
     </tr>
        
 </table>
-  
-  
-  
- 
-  
-
- 
-  
-  
-  
- 
 
 <a id="Academic_Qualification"></a><h3><b>Academic Qualification</b></h3>
-</body>
-</html>
 
 Course/class |  Year of Passing | University/School
 ------------ | -------------
@@ -117,7 +104,8 @@ Name of Supervisor: Dr. Kanwal Garg
 5. Participate in v mini **National Volley Ball championship** at Barasat stadium (West Bengal) in December 1996
 6. NCC Certificate.
 
-
+</body>
+</html>
 
 
 
