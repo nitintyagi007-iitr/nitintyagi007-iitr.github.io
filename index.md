@@ -55,10 +55,13 @@ Mob- +919582433934<br/>
          <td style="width:25%"><img src="https://github.com/nitintyagi007-iitr/nitintyagi007-iitr.github.io/blob/gh-pages/sachin_alloy.jpg"  width="300" height="100"></td>
         <td style="width:75%">Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, <b>Nitin Tyagi</b>, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)</td>
     </tr>
-  
+   <tr>    
+         <td style="width:25%"><img src="https://github.com/nitintyagi007-iitr/nitintyagi007-iitr.github.io/blob/gh-pages/sachin_alloy.jpg"  width="300" height="100"></td>
+        <td style="width:75%">Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, <b>Nitin Tyagi</b>, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)</td>
+    </tr>
      <tr>      
          <td style="width:25%"><img src="https://github.com/nitintyagi007-iitr/nitintyagi007-iitr.github.io/blob/gh-pages/CVIP.jpg" width="300" height="100"></td>
-        <td style="width:75%"><b>Nitin Tyagi<b>, Balasubramanian Raman and Neerja Garg, Varietal Classification of Wheat Seeds using Hyperspectral Imaging Technique and Machine Learning Models, Accepted for publication in 7th International Conference on Computer Vision & Image Processing (CVIP 2022), November 04-06, 2022, VNIT Nagpur Maharashtra, INDIA</td>
+        <td style="width:75%">Nitin Tyagi, Balasubramanian Raman and Neerja Garg, Varietal Classification of Wheat Seeds using Hyperspectral Imaging Technique and Machine Learning Models, Accepted for publication in 7th International Conference on Computer Vision & Image Processing (CVIP 2022), November 04-06, 2022, VNIT Nagpur Maharashtra, INDIA</td>
     </tr>
        
 </table>
