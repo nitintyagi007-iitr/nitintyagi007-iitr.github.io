@@ -52,8 +52,8 @@ Mob- +919582433934<br/>
   
   <table style="width:100%">                 
     <tr>    
-         <td style="width:25%"><img src="https://github.com/nitintyagi007-iitr/nitintyagi007-iitr.github.io/blob/gh-pages/sachin_alloy.jpg"  width="300" height="100"></td>
-        <td style="width:75%">Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, <b>Nitin Tyagi</b>, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)</td>
+         <td style="width:25%"></td>
+        <td style="width:75%"></td>
     </tr>
   <tr>    
          <td style="width:25%"><img src="https://github.com/nitintyagi007-iitr/nitintyagi007-iitr.github.io/blob/gh-pages/sachin_alloy.jpg"  width="300" height="100"></td>
