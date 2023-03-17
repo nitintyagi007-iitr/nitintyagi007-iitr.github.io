@@ -72,7 +72,7 @@ Course/class |  Year of Passing | University/School
 Ph.D(CSE) | 2019(Pursuing) | IIT Roorkee, Uttarakhand
 M.Tech | 2014 | Thapar University,Patiala,Punjab
 MCA | 2009 | Kurukshetra University, Haryana
-B.sc(Chemistry) | 2004 | A.R.S.D College,Delhi University
+B.Sc(Chemistry) | 2004 | A.R.S.D College,Delhi University
 
 ### Award and Fellowship
 1. Awarded MHRD fellowship for pursuing Ph.D at IIT Roorkee
