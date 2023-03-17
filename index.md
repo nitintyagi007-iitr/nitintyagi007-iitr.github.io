@@ -58,7 +58,7 @@ Mob- +919582433934<br/>
   
      <tr>      
          <td style="width:25%"><img src="https://github.com/nitintyagi007-iitr/nitintyagi007-iitr.github.io/blob/gh-pages/CVIP.jpg"></td>
-        <td style="width:75%">Nitin Tyagi, Balasubramanian Raman and Neerja Garg, Varietal Classification of Wheat Seeds using Hyperspectral Imaging Technique and Machine Learning Models, Accepted for publication in 7th International Conference on Computer Vision & Image Processing (CVIP 2022), November 04-06, 2022, VNIT Nagpur Maharashtra, INDIA</td>
+        <td style="width:75%"><b>Nitin Tyagi<b>, Balasubramanian Raman and Neerja Garg, Varietal Classification of Wheat Seeds using Hyperspectral Imaging Technique and Machine Learning Models, Accepted for publication in 7th International Conference on Computer Vision & Image Processing (CVIP 2022), November 04-06, 2022, VNIT Nagpur Maharashtra, INDIA</td>
     </tr>
        
 </table>
