@@ -52,18 +52,15 @@ Mob- +919582433934<br/>
   
   <table style="width:100%">                 
     <tr>    
-         <td style="width:25%"><img src="https://raw.githubusercontent.com/AnshulPundhir/AnshulPundhir.github.io/gh-pages/CVIP.PNG"></td>
-        <td style="width:75%">Pundhir, A., Verma, D., Kumar, P., Raman, B. (2022). Region Extraction Based Approach for Cigarette Usage Classification Using Deep Learning. In: Raman, B., Murala, S., Chowdhury, A., Dhall, A., Goyal, P. (eds) Computer Vision and Image Processing. CVIP 2021. Communications in Computer and Information Science, vol 1568. Springer. https://doi.org/10.1007/978-3-031-11349-9_33</td>
+         <td style="width:25%"><img src="https://github.com/nitintyagi007-iitr/nitintyagi007-iitr.github.io/blob/gh-pages/sachin_alloy.jpg"></td>
+        <td style="width:75%">Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, <b>Nitin Tyagi</b>, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018</td>
     </tr>
   
      <tr>      
-         <td style="width:25%"><img src="https://raw.githubusercontent.com/AnshulPundhir/AnshulPundhir.github.io/gh-pages/ICPR.PNG"></td>
-        <td style="width:75%">A. Pundhir, S. Dadhich, A. Agarwal and B. Raman, "Towards Improved Skin Lesion Classification using Metadata Supervision," 2022 26th International Conference on Pattern Recognition (ICPR), Montreal, QC, Canada, 2022, pp. 4313-4320, doi: 10.1109/ICPR56361.2022.9956071.</td>
+         <td style="width:25%"><img src="https://github.com/nitintyagi007-iitr/nitintyagi007-iitr.github.io/blob/gh-pages/CVIP.jpg"></td>
+        <td style="width:75%">Nitin Tyagi, Balasubramanian Raman and Neerja Garg, Varietal Classification of Wheat Seeds using Hyperspectral Imaging Technique and Machine Learning Models, Accepted for publication in 7th International Conference on Computer Vision & Image Processing (CVIP 2022), November 04-06, 2022, VNIT Nagpur Maharashtra, INDIA</td>
     </tr>
-        <tr>
-         <td style="width:25%"><img src="https://raw.githubusercontent.com/AnshulPundhir/AnshulPundhir.github.io/gh-pages/MLCDS.PNG"></td>
-        <td style="width:75%">Pundhir, A., Agarwal, A., Dadhich, S., Raman, B. (2022). Visually Aware Metadata-Guided Supervision for Improved Skin Lesion Classification Using Deep Learning. In: , et al. Ethical and Philosophical Issues in Medical Imaging, Multimodal Learning and Fusion Across Scales for Clinical Decision Support, and Topological Data Analysis for Biomedical Imaging. EPIMI ML-CDS TDA4BiomedicalImaging 2022. Lecture Notes in Computer Science, vol 13755. Springer. https://doi.org/10.1007/978-3-031-23223-7_6.</td>
-    </tr>
+       
 </table>
   
   
