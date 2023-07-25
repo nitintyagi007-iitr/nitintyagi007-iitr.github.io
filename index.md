@@ -100,6 +100,7 @@ Name of Supervisor: Dr. Kanwal Garg
 2. Worked as Assistant Professor in Kalka Institute for Research & Advanced Studies college affiliated from GGSIP University Delhi from 2011 -2012
 3. Worked as Assistant Professor in Delhi Institute of Rural Development college affiliated from GGSIP University Delhi from 2010-2011
 4. Worked in Research India Publication from 2009-2010
+5. Selected for 6 months Deloitte studentship program 
 
 ### Achievements
 1. Won zonal tournament of volley ball in 1995-96 with **first position**.
