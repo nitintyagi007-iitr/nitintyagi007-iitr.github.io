@@ -48,6 +48,86 @@ Mob- +919582433934<br/>
   <li> Deep Learning</li>
 </ol> 
 
+
+## Publications
+
+<style>
+  .container {
+    display: flex;
+    align-items: center; /* Vertically center the items */
+  }
+
+  .image {
+    flex: 3; /* Occupy 30% of the container width */
+    max-width: 30%;
+    padding-right: 10px; /* Adjusted spacing between image and text */
+  }
+
+  .text {
+    flex: 7; /* Occupy 70% of the container width */
+  }
+
+  /* Adjust image width and height */
+  img {
+    width: 100%;
+    height: auto;
+    object-fit: cover; /* Maintain the aspect ratio while covering the entire container */
+  }
+</style>
+
+
+<div class="container">
+  <div class="image">
+    <img src="./CVIP.jpg" alt="Image">
+  </div>
+  <div class="text">
+    <p>Pundhir, A., Verma, D., Kumar, P., Raman, B. (2022). Region Extraction Based Approach for Cigarette Usage Classification Using Deep Learning. In: Raman, B., Murala, S., Chowdhury, A., Dhall, A., Goyal, P. (eds) Computer Vision and Image Processing. CVIP 2021. Communications in Computer and Information Science, vol 1568. Springer. https://doi.org/10.1007/978-3-031-11349-9_33.</p>
+  </div>
+</div>
+
+
+
+<div class="container">
+
+  <div class="image">
+    <img src="./sachin_alloy.jpg" alt="Image">
+  </div>
+  <div class="text">
+    <p>A. Pundhir, S. Dadhich, A. Agarwal and B. Raman, "Towards Improved Skin Lesion Classification using Metadata Supervision," 2022 26th International Conference on Pattern Recognition (ICPR), Montreal, QC, Canada, 2022, pp. 4313-4320, doi: 10.1109/ICPR56361.2022.9956071</p>
+  </div>
+
+</div>
+
+
+
+<div class="container">
+  <div class="image">
+    <img src="./MLCDS.PNG" alt="Image">
+  </div>
+  <div class="text">
+    <p>Pundhir, A., Agarwal, A., Dadhich, S., Raman, B. (2022). Visually Aware Metadata-Guided Supervision for Improved Skin Lesion Classification Using Deep Learning. In: , et al. Ethical and Philosophical Issues in Medical Imaging, Multimodal Learning and Fusion Across Scales for Clinical Decision Support, and Topological Data Analysis for Biomedical Imaging. EPIMI ML-CDS TDA4BiomedicalImaging 2022. Lecture Notes in Computer Science, vol 13755. Springer. https://doi.org/10.1007/978-3-031-23223-7_6.</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a id="Publications"></a><h3><b>Publications</b></h3>
   
   <table style="width:100%">                 
