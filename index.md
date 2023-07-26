@@ -102,10 +102,10 @@ Mob- +919582433934<br/>
 
 <div class="container">
   <div class="image">
-    <img src="./MLCDS.PNG" alt="Image">
+    <img src="./ICA.jpg" alt="Image">
   </div>
   <div class="text">
-    <p>Pundhir, A., Agarwal, A., Dadhich, S., Raman, B. (2022). Visually Aware Metadata-Guided Supervision for Improved Skin Lesion Classification Using Deep Learning. In: , et al. Ethical and Philosophical Issues in Medical Imaging, Multimodal Learning and Fusion Across Scales for Clinical Decision Support, and Topological Data Analysis for Biomedical Imaging. EPIMI ML-CDS TDA4BiomedicalImaging 2022. Lecture Notes in Computer Science, vol 13755. Springer. https://doi.org/10.1007/978-3-031-23223-7_6.</p>
+    <p>Nitin Tyagi, Yash khandelwal, Pratham Goyal, Yash Asati, Balasyubramanian Raman, Indra Gupta, and Neera Garg, FusedNet Model for Varietal Classification of Rice Seeds, Accepted for publication in "International Conference on Agriculture Centric Computation (ICA 2023)", May 11-13,2023, IIT Ropar, Punjab, India.[Accepted][Best Paper Award</p>
   </div>
 </div>
 
