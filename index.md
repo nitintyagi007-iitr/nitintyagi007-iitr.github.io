@@ -105,7 +105,7 @@ Mob- +919582433934<br/>
     <img src="./ICA.jpg" alt="Image">
   </div>
   <div class="text">
-    <p>Nitin Tyagi, Yash khandelwal, Pratham Goyal, Yash Asati, Balasyubramanian Raman, Indra Gupta, and Neera Garg, FusedNet Model for Varietal Classification of Rice Seeds, Accepted for publication in "International Conference on Agriculture Centric Computation (ICA 2023)", May 11-13,2023, IIT Ropar, Punjab, India.[Accepted][Best Paper Award</p>
+    <p>Nitin Tyagi, Yash khandelwal, Pratham Goyal, Yash Asati, Balasubramanian Raman, Indra Gupta, and Neera Garg, FusedNet Model for Varietal Classification of Rice Seeds, Accepted for publication in "International Conference on Agriculture Centric Computation (ICA 2023)", May 11-13,2023, IIT Ropar, Punjab, India.[Accepted][Best Paper Award]</p>
   </div>
 </div>
 
