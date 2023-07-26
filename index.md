@@ -109,44 +109,6 @@ Mob- +919582433934<br/>
   </div>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a id="Publications"></a><h3><b>Publications</b></h3>
-  
-  <table style="width:100%">                 
-    
-  <tr>    
-         <td style="width:25%"><img src="https://github.com/nitintyagi007-iitr/nitintyagi007-iitr.github.io/blob/gh-pages/sachin_alloy.jpg" ></td>
-        <td style="width:75%">Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, <b>Nitin Tyagi</b>, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)</td>
-    </tr>
-     <tr>      
-         <td style="width:25%"><img src="https://github.com/nitintyagi007-iitr/nitintyagi007-iitr.github.io/blob/gh-pages/CVIP.jpg" ></td>
-        <td style="width:75%">Tyagi, N., Raman, B., Garg, N.M. (2023). Varietal Classification of Wheat Seeds Using Hyperspectral Imaging Technique and Machine Learning Models. In: Gupta, D., Bhurchandi, K., Murala, S., Raman, B., Kumar, S. (eds) Computer Vision and Image Processing. CVIP 2022. Communications in Computer and Information Science, vol 1777. Springer, Cham. https://doi.org/10.1007/978-3-031-31417-9_20</td>
-    </tr>
-       <tr>      
-         <td style="width:25%"><img src="https://github.com/nitintyagi007-iitr/nitintyagi007-iitr.github.io/blob/gh-pages/CVIP.jpg" ></td>
-        <td style="width:75%">Nitin Tyagi, Yash khandelwal, Pratham Goyal, Yash Asati, Balasyubramanian Raman, Indra Gupta, and Neera Garg, FusedNet Model for Varietal Classification of Rice Seeds, Accepted for publication in "International Conference on Agriculture Centric Computation (ICA 2023)", May 11-13,2023, IIT Ropar, Punjab, India.[Accepted]</td>
-    </tr>
-</table>
-
-<a id="Academic_Qualification"></a><h3><b>Academic Qualification</b></h3>
 </body>
 </html>
 
