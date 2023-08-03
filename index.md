@@ -109,6 +109,15 @@ Mob- +919582433934<br/>
   </div>
 </div>
 
+<div class="container">
+  <div class="image">
+    <img src="./ICA.jpg" alt="Image">
+  </div>
+  <div class="text">
+    <p>Nitin Tyagi, Balasubramanian Raman, Neera Garg, Classification of Hard and Soft Wheat Species using Hyperspectral Imaging and Machine Learning Models". Acceepted for the publication in the 30th International Conference on Neural Information Processing (ICONIP2023) will be held in Changsha, China, November 20-23, 2023.[Accepted]</p>
+  </div>
+</div>
+
 </body>
 </html>
 
