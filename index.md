@@ -81,7 +81,7 @@ Mob- +919582433934<br/>
     <img src="./sachin_alloy.jpg" alt="Image">
   </div>
   <div class="text">
-    <p>Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, <b>Nitin Tyagi</b>, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018)</p>
+    <p>Sachin Tyagi, V.S. Pandey, Himanshu B. Baskey, <b>Nitin Tyagi</b>, Avesh Garg, Shivanshu Goel, Trilok Chand Shami, RADAR absorption study of BaFe12O19/ZnFe2O4/CNTs nanocomposite, Journal of Alloys and Compounds, 731 584-590 (2018) [Q1, Published]</p>
   </div>
 </div>
 
@@ -93,7 +93,7 @@ Mob- +919582433934<br/>
     <img src="./CVIP.jpg" alt="Image">
   </div>
   <div class="text">
-    <p>Tyagi, N., Raman, B., Garg, N.M. (2023). Varietal Classification of Wheat Seeds Using Hyperspectral Imaging Technique and Machine Learning Models. In: Gupta, D., Bhurchandi, K., Murala, S., Raman, B., Kumar, S. (eds) Computer Vision and Image Processing. CVIP 2022. Communications in Computer and Information Science, vol 1777. Springer, Cham. https://doi.org/10.1007/978-3-031-31417-9_20</p>
+    <p>Tyagi, N., Raman, B., Garg, N.M. (2023). Varietal Classification of Wheat Seeds Using Hyperspectral Imaging Technique and Machine Learning Models. In: Gupta, D., Bhurchandi, K., Murala, S., Raman, B., Kumar, S. (eds) Computer Vision and Image Processing. CVIP 2022. Communications in Computer and Information Science, vol 1777. Springer, Cham. https://doi.org/10.1007/978-3-031-31417-9_20 [Published]</p>
   </div>
 
 </div>
